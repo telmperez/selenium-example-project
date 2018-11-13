@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" verbose="10" thread-count="1">
+  <test name="Test">
+    <packages>
+      <package name="com.example.selenium.test.*"/>
+    </packages>
+  </test>
+</suite>
